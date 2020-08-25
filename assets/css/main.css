@@ -918,6 +918,7 @@ input, select, textarea {
 				line-height: 2.25rem;
 				text-align: center;
 				width: 2.25rem;
+				overflow: hidden;
 			}
 
 				ul.icons li a:hover {
